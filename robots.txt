@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://aaplesarkar.org.in/sitemap.xml
+Sitemap: https://digitalsevagov.co.in/sitemap.xml
