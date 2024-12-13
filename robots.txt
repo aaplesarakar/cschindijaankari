@@ -3,5 +3,4 @@ Disallow: /nogooglebot/
 
 User-agent: *
 Allow: /
-
 Sitemap: https://www.digitalsevagov.co.in/sitemap.xml
